@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @amirghasempoor
-- 👀 I’m interested in programming and electronics.
-- 🌱 I’m currently learning electrical engineering.
-- 💞️ I’m looking to collaborate on programming projects and electronic researches.
+- 👀 I’m interested in linux and networking.
+- 💞️ I’m looking to collaborate on programming projects.
 - 📫 How to reach me amirghasempoor79@gmail.com
 
 <!---
